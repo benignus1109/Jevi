@@ -1,1 +1,1 @@
-web: node ./app.js Bellicosa https://entjevi.herokuapp.com
+https://실시간 채팅 의 사본.herokuapp.com
